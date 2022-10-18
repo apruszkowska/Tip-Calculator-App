@@ -91,7 +91,9 @@ input{
 }
 
 .error {
-    color: red;;
+    color: red;
+    display: none;
+    
 }
 
 .result{
@@ -141,10 +143,6 @@ input{
 .peopleLabel{
     display: flex;
     justify-content: space-between;
-}
-.zero-input{
-    color: red;
-    display: none;
 }
 
 .leftSide{
